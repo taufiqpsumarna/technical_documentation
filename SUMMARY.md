@@ -109,6 +109,7 @@
 
 ## Cybersecurity
 
+* [Pentesting  Important Tools](cybersecurity/pentesting-important-tools.md)
 * [Pentesting](cybersecurity/pentesting/README.md)
   * [Tahapan Pentesting](cybersecurity/pentesting/tahapan-pentesting/README.md)
     * [Information Gathering](cybersecurity/pentesting/tahapan-pentesting/information-gathering.md)
