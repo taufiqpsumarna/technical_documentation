@@ -110,6 +110,6 @@
 ## Cybersecurity
 
 * [Pentesting](cybersecurity/pentesting/README.md)
-  * [Tahapan Pentestin](cybersecurity/pentesting/tahapan-pentestin.md)
   * [Pentesting  Important Tools](cybersecurity/pentesting/pentesting-important-tools.md)
+  * [Tahapan Pentesting](cybersecurity/pentesting/tahapan-pentestin.md)
 
