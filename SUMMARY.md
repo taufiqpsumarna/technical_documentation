@@ -4,8 +4,8 @@
 
 ## Knowledge: Networking <a id="networking"></a>
 
-* [Basic Knowledge](networking/networking_basic.md)
-* [Apa Itu Sertifikat SSL ?](networking/apa-itu-sertifikat-ssl.md)
+* [Basic Knowledge](networking/networking_basic/README.md)
+  * [Apa Itu Sertifikat SSL ?](networking/networking_basic/apa-itu-sertifikat-ssl.md)
 * [Network Security](networking/network-security/README.md)
   * [Suricata Intrusion Detection System](networking/network-security/suricata-intrusion-detection-system.md)
   * [Fortigate](networking/network-security/fortigate.md)
