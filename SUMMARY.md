@@ -111,5 +111,7 @@
 
 * [Pentesting](cybersecurity/pentesting/README.md)
   * [Pentesting  Important Tools](cybersecurity/pentesting/pentesting-important-tools.md)
-  * [Tahapan Pentesting](cybersecurity/pentesting/tahapan-pentestin.md)
+  * [Tahapan Pentesting](cybersecurity/pentesting/tahapan-pentestin/README.md)
+    * [Information Gathering](cybersecurity/pentesting/tahapan-pentestin/information-gathering.md)
+    * [Vulnerability Assesment](cybersecurity/pentesting/tahapan-pentestin/vulnerability-assesment.md)
 
