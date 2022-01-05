@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Taufiq Technical Documentation](README.md)
+* [Taufiq Docs!](README.md)
 
-## Knowledge: Networking <a id="networking"></a>
+## Knowledge: Networking <a href="#networking" id="networking"></a>
 
-* [Basic Knowledge](networking/networking_basic/README.md)
-  * [Apa Itu Sertifikat SSL ?](networking/networking_basic/apa-itu-sertifikat-ssl.md)
+* [Basic Knowledge](networking/networking\_basic/README.md)
+  * [Apa Itu Sertifikat SSL ?](networking/networking\_basic/apa-itu-sertifikat-ssl.md)
 * [Network Security](networking/network-security/README.md)
   * [Suricata Intrusion Detection System](networking/network-security/suricata-intrusion-detection-system.md)
   * [Fortigate](networking/network-security/fortigate.md)
@@ -23,11 +23,11 @@
   * [2.Data Link](troubleshooting-network/7-osi-layer-troubleshoot/2.data-link.md)
   * [1.Physical](troubleshooting-network/7-osi-layer-troubleshoot/1.physical.md)
 
-## Knowledge: Server <a id="server"></a>
+## Knowledge: Server <a href="#server" id="server"></a>
 
 * [Basic Knowledge](server/basic-knowledge/README.md)
-  * [Windows Server](server/basic-knowledge/windows_server.md)
-  * [Linux Server](server/basic-knowledge/linux_server.md)
+  * [Windows Server](server/basic-knowledge/windows\_server.md)
+  * [Linux Server](server/basic-knowledge/linux\_server.md)
 * [Server Management Tools](server/server-management-tools.md)
 * [Virtualisasi Server](server/virtualization.md)
 * [Server Monitoring And Control](server/tools-monitoring-server/README.md)
@@ -43,7 +43,7 @@
 
 * [Disk Savvy Ultimate : Disk Analyzer](troubleshooting-software/untitled.md)
 
-## Zimbra Email Server 8.6.0 <a id="zimbra-email-server"></a>
+## Zimbra Email Server 8.6.0 <a href="#zimbra-email-server" id="zimbra-email-server"></a>
 
 * [Basic Command](zimbra-email-server/basic-command.md)
 * [Konfigurasi](zimbra-email-server/konfigurasi/README.md)
@@ -95,7 +95,7 @@
   * [T.1 Proxmox GUI Refused To Connect](proxmox-ve/troubleshooting/t.1-proxmox-gui-refused-to-connect.md)
   * [T.2 Proxmox Dan VM Tidak mendapatkan akses internet](proxmox-ve/troubleshooting/t.2-proxmox-dan-vm-tidak-mendapatkan-akses-internet.md)
 
-## Open Source IT Asset Management <a id="snipe-it-open-source-asset-management"></a>
+## Open Source IT Asset Management <a href="#snipe-it-open-source-asset-management" id="snipe-it-open-source-asset-management"></a>
 
 * [Snipe IT](snipe-it-open-source-asset-management/snipe-it.md)
 * [GLPI IT Software Management](snipe-it-open-source-asset-management/glpi-network.md)
@@ -114,4 +114,3 @@
   * [Tahapan Pentesting](cybersecurity/pentesting/tahapan-pentestin/README.md)
     * [Information Gathering](cybersecurity/pentesting/tahapan-pentestin/information-gathering.md)
     * [Vulnerability Assesment](cybersecurity/pentesting/tahapan-pentestin/vulnerability-assesment.md)
-
