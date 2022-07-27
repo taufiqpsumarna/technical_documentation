@@ -7,6 +7,7 @@
 * [Basic Knowledge](networking/networking\_basic/README.md)
   * [Apa Itu Sertifikat SSL ?](networking/networking\_basic/apa-itu-sertifikat-ssl.md)
 * [Network Security](networking/network-security/README.md)
+  * [System Audit Tools](networking/network-security/system-audit-tools.md)
   * [Suricata Intrusion Detection System](networking/network-security/suricata-intrusion-detection-system.md)
   * [Fortigate](networking/network-security/fortigate.md)
   * [PFSense: Open Source Firewall Yang Powerfull](networking/network-security/pfsense-open-source-firewall-yang-powerfull.md)
