@@ -1,4 +1,4 @@
-# System Audit Tools
+# System Security Audit Tools
 
 {% embed url="https://github.com/prowler-cloud/prowler" %}
 AWS Infrastructure Security Tools

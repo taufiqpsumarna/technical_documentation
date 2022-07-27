@@ -6,7 +6,7 @@ Policyd ini berbasis web based untuk konfigurasinya, secara default tidak ada ta
 
 ### Step 1: To active cbpolicyd on zimbra 8.6
 
-> $su - zimbra  
+> $su - zimbra\
 > $zmprov ms \`zmhostname\` +zimbraServiceInstalled cbpolicyd +zimbraServiceEnabled cbpolicyd
 
 {% hint style="info" %}
@@ -19,14 +19,14 @@ zmcontrol restart
 
 ### Step 2: To acctive cbpolicyd webui
 
-> cd /opt/zimbra/httpd/htdocs/ && ln -s ../../cbpolicyd/share/webui  
+> cd /opt/zimbra/httpd/htdocs/ && ln -s ../../cbpolicyd/share/webui\
 > vim /opt/zimbra/cbpolicyd/share/webui/includes/config.php
 
-To add "**$DB\_DSN="sqlite:/opt/zimbra/data/cbpolicyd/db/cbpolicyd.sqlitedb**";" in config.php file.  
-**The ouput:**  
+To add "**$DB\_DSN="sqlite:/opt/zimbra/data/cbpolicyd/db/cbpolicyd.sqlitedb**";" in config.php file.\
+**The ouput:**\
 
 
-```text
+```
 
 <?php
 
@@ -58,7 +58,7 @@ $DB_POSTFIX_PASS="";
 
 ### Step 3: To restart services
 
-> su - zimbra -c "zmcontrol restart"  
+> su - zimbra -c "zmcontrol restart"\
 > su - zimbra -c "zmapachectl restart"
 >
 > or
@@ -72,4 +72,3 @@ $DB_POSTFIX_PASS="";
 Source:
 
 [https://www.huuphan.com/2017/02/how-to-install-cbpolicyd-on-zimbra-86.html](https://www.huuphan.com/2017/02/how-to-install-cbpolicyd-on-zimbra-86.html)
-

@@ -1,6 +1,6 @@
 # K.2 Konfigurasi Split Tunnel IPV4
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](<../../.gitbook/assets/image (55).png>)
 
 ### A. Pendahuluan
 
@@ -12,9 +12,9 @@ Ketika user VPN mengakses internet maka traffic tersebut akan melalui fortigate 
 
 Pro
 
-+  Seluruh Traffic internet user VPN akan tercatat oleh sistem.
+\+  Seluruh Traffic internet user VPN akan tercatat oleh sistem.
 
-+  Peraturan Akses Akan Sama Dengan User Jaringan Lokal
+\+  Peraturan Akses Akan Sama Dengan User Jaringan Lokal
 
 Cons
 
@@ -30,19 +30,17 @@ Ketika user VPN mengakses internet maka traffic tersebut **tidak** akan melalui 
 
 Konfigurasi dilakukan ketika melakukan IPSEC/VPN Wizard, pastikan untuk menaktifkan opsi **Enable IPv4 Splite Tunnel**
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](<../../.gitbook/assets/image (43).png>)
 
 Jika konfigurasi VPN sudah dilakukan, opsi **IPv4 Splite Tunnel** dapat diaktifkan dengan cara sebagai berikut:
 
-Masuk kedalam menu **VPN &gt; IPSec Tunnels,** Kemudian klik Convert To Custom Tunnel
+Masuk kedalam menu **VPN > IPSec Tunnels,** Kemudian klik Convert To Custom Tunnel
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](<../../.gitbook/assets/image (8).png>)
 
 Setelah itu checklist Mode Config dan Enable IPv4 Split Tunnel, Kemudian Pilih IP Address atau Jaringan Lokal yang dapat diakses oleh user VPN, dan jangan lupa untuk menentukan **Client Address Range**
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](<../../.gitbook/assets/image (15).png>)
 
-![](../../.gitbook/assets/image%20%2850%29.png)
-
-
+![](<../../.gitbook/assets/image (50).png>)
 
